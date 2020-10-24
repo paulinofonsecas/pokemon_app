@@ -1,6 +1,10 @@
-# pokemon_app
+# Pokemon app [Simples]
 
-A new Flutter project.
+### Listagem de pokemons
+<img width="200" src="home.png">  <br>
+
+### Detalhes do pokemon
+<img width="200" src="poke_details.png">
 
 ## Getting Started
 
